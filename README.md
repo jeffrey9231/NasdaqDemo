@@ -12,10 +12,12 @@ The solution should be implemented in Java. Initially calculate the value where 
 
 When n=100 and C=10 Ans is 513946235090692051255
  
+
 Please additionally tell us the values where n=1000000 and C=200, but only include the first 10 digits of the result in your answer.
 
 When n=1000000 and C=200 first 10 digits is 4876116127
  
+
 What is the algorithmic complexity of your solution? What if you needed to calculate n=10,000,000 and C=200 ?
 
 algorithmic complexity is Ο(n2)
