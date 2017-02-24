@@ -26,7 +26,7 @@ public class Demo {
 		for(int i=0;i<n;i++){
 			totalSum = totalSum.add(array[i]);
 		}
-		System.out.print(totalSum);
+		System.out.println(totalSum);
 	}
 	
 }
